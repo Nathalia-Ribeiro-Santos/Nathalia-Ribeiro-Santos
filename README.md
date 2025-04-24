@@ -21,7 +21,6 @@ Meu objetivo é transformar dados em insights valiosos que ajudem empresas a tom
 🤖 Linguagens e Tecnologias
 
 
-
 <img 
     align="left" 
     alt="Python" 
