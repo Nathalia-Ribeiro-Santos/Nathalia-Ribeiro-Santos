@@ -38,5 +38,5 @@ Desenvolver competências em Cyber Security e atuar em ambientes de Security Ope
 contribuindo para a detecção, análise e resposta a incidentes de segurança,
 além da proteção contínua de ativos e informações.
 
-LinkedIn:
-LinkedIn
+LinkedIn:www.linkedin.com/in/nathalia-ribeiro-4a9a2a1b3 
+
