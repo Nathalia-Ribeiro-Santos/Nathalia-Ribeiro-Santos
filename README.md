@@ -1,5 +1,5 @@
 ```markdown
-# 👩🏻‍💻 Nathalia Ribeiro Santos
+# 👩🏻‍💻 Nathalia Ribeiro Santos 
 
 **`Analista SOC | Cyber Security`**
 
@@ -25,3 +25,5 @@ Meu objetivo é contribuir para a proteção de ambientes digitais, auxiliando n
 
 Desenvolver competências em Cyber Security e atuar em ambientes de Security Operations Center (SOC), contribuindo para a detecção, análise e resposta a incidentes de segurança, além da proteção contínua de ativos e informações.
 ```
+
+Linkedin : www.linkedin.com/in/nathalia-ribeiro-4a9a2a1b3
